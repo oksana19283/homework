@@ -1,0 +1,18 @@
+ # 1. MARKDOWN CELLS
+* Hi! Its Main Acamemy?
+* All HTML tabs are supported!
+* Моя сторінка на лінкедін [Oksana](https://www.instagram.com/oksana_mirel/)
+
+
+# This is Heading1
+
+## This is Heading2
+some gray colored text:
+>This is where we can bring quotes and present them nicely  
+
+And this is the paragraph about something very important. Even math 
+                                    ![image.png](attachment:image.png)
+Or python code example:  
+import math   
+def foo()  
+   return "foo"
