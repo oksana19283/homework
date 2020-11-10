@@ -1,0 +1,6 @@
+Here is the sample mean 
+                  ![image.png](attachment:image.png)
+Here is the sample variance
+                  <img src="https://strata.uga.edu/8370/lecturenotes/images/sampleVariance.png" alt="drawing" width="300"/>
+Here is sample standart deviation
+                 ![image.png](https://media.cheggcdn.com/media%2Ffb2%2Ffb229b3b-7787-4b44-b401-93e6a39b5890%2FphpZEGuzV.png)
