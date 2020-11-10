@@ -1,0 +1,11 @@
+a=input()
+b=input() 
+if ord(a)>1072 and ord(b)>1072: #if russian letter
+    ar=ord(a)-1072
+    br=ord(b)-1072
+else:# if english letter
+    ar=ord(a)-97
+    br=ord(b)-97
+print(ar)
+print(br)
+print(abs(ar-br))
